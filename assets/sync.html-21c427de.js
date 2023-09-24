@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c,a as e,b as o}from"./app-fa7b8cc9.js";const r={},s=e("h1",{id:"数据与文件的同步",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据与文件的同步","aria-hidden":"true"},"#"),o(" 数据与文件的同步")],-1),n=[s];function _(d,i){return a(),c("div",null,n)}const f=t(r,[["render",_],["__file","sync.html.vue"]]);export{f as default};
