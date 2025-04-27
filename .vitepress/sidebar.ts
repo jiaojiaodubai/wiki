@@ -118,7 +118,15 @@ export const sidebar = {
           items: [{ text: "Zotero 7 历史版本下载", link: "/user-guide/faqs/zotero-7-beta-versions" }],
         },
         { text: "与插件相关的", link: "/user-guide/faqs/plugins" },
-        { text: "与抓取文献条目相关的", link: "/user-guide/faqs/update-translators" },
+        { 
+          text: "与添加条目相关的",
+          items: [
+            { text: "从浏览器抓取", link: "/user-guide/faqs/add-items/browser" },
+            { text: "从魔法棒添加", link: "/user-guide/faqs/add-items/magic-wand" },
+            { text: "拖入 PDF 自动识别", link: "/user-guide/faqs/add-items/auto-recognize" },
+            { text: "从文献交换格式导入", link: "/user-guide/faqs/add-items/import" },
+          ],
+        },
         { text: "与 Word 引用相关的", link: "/user-guide/faqs/word-addon" },
         {
           text: "与阅读器相关",

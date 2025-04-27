@@ -253,7 +253,7 @@ Public Sub ZoteroLinkCitation()
 
 ### 配置及使用
 
-1. 直接下载 [link-zotero-citation-bibliography](https://github.com/Syize/link-zotero-citation-bibliography) 仓库中的 [link-zotero-citation-bibliography.py](https://github.com/Syize/link-zotero-citation-bibliography/blob/master/link-zotero-citation-bibliography.py) 文件。
+1. 直接下载 [link-Zotero-citation-bibliography](https://github.com/Syize/link-zotero-citation-bibliography) 仓库中的 [link-Zotero-citation-bibliography.py](https://github.com/Syize/link-zotero-citation-bibliography/blob/master/link-zotero-citation-bibliography.py) 文件。
 2. 安装以下依赖库：
    - pywin32
    - rich
